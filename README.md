@@ -34,7 +34,7 @@ Também gostaríamos que vocês ao menos:
 
 É importante que vocês também tenham um currículo em PDF como vocês enviariam para uma vaga de emprego, nesse quesito é completamente livre como fazer ou o que colocar. Importante também notar que o próprio LinkedIn tem [uma ferramenta](https://www.youtube.com/watch?v=9rsb2yovb_s) que permite exportar as informações do Perfil em Currículo, porém é importante pontuar se você usaria essa exportação para uma aplicação real que é o que vamos buscar otimizar.
 
-Depois de ter seu currículo pronto envie-o para o e-mail [camilotk@gmail.com](#) com o título **MEENTORIA: Currículo de \<nome\> **.
+Depois de ter seu currículo pronto envie-o para o e-mail [camilotk@gmail.com](#) com o título **MEENTORIA: Currículo de \<nome\>**.
 
 ## Prazo
 
