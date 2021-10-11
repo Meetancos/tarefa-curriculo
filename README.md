@@ -5,3 +5,10 @@ Na próxima (ou nas próximas) semana(s) vamos estar vendo mais sobre entrevista
 - Um perfil no LinkedIn completo.
 Faça seu melhor, mas não se preocupe pois uma das coisas que vamos trabalhar é justamente a questão de como melhorar essas coisas, além de falar sobre entrevistas e entrevistas técnicas, o que precisamos agora é conseguir entender e avaliar como seria a sua candidatura para uma vaga real.
 
+## LinkedIn
+
+Você precisa ter um perfil no [LinkedIn](https://www.linkedin.com/) e o mesmo deve conter:
+- Foto de Perfil
+- Descrição / Sobre / About
+- Experiências Profissionais
+- Formação Acadêmica
